@@ -40,12 +40,6 @@ const itens = [
     foto: "https://cdn.discordapp.com/attachments/994238814040113244/994243597572526201/unknown.png",
     valor: "1299,90",
   },
-  // {
-  //   id: "7",
-  //   nome: "Oakley Mod Nomad",
-  //   foto: "https://cdn.discordapp.com/attachments/994238814040113244/994244354661163168/unknown.png",
-  //   valor: "549,90",
-  // },
 ];
 
 export default function Home() {
@@ -53,7 +47,7 @@ export default function Home() {
   return (
 
     <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
-      <Header name="Diogo" />
+      <Header name="Hudson" />
 
       <Text style={styles.title}>Destaques</Text>
       <View>

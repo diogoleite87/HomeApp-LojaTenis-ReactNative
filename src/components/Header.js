@@ -20,7 +20,7 @@ export default function Header({ name }) {
   return (
     <View style={styles.container}>
       <View style={styles.content}>
-        <Text style={styles.username}>Boa Noite, {name}!</Text>
+        <Text style={styles.username}>Bom Dia, {name}!</Text>
 
         <TouchableOpacity
           activeOpacity={0.9}
