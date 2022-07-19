@@ -7,7 +7,7 @@
 
 <h3 align="center">Pagina Inicial</h3>
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./img/home.png"/>
+   <img alt="Readme" title="Readme" src="./img/home.png" width="40%"/>
 </h1>
 
 <h3 align="center">Scroll Pagina Inicial</h3>
